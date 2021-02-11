@@ -27,7 +27,7 @@ public class Principal {
 		Scanner in = new Scanner(System.in);
 		String nome = in.nextLine();
 		
-		// SaldaÃ§Ã£o especÃ­fica para o nome lido
+		// Saldação específica para o nome lido.
 		System.out.printf("Ola %s!", nome);
 		in.close();
 	}
